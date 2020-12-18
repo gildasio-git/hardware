@@ -1,0 +1,161 @@
+-> ANOTAÇÕES CURSO DE HARDWARE EM VIDEO - 
+msi afterburner - software para regular velocidade cooler placa de video 
+(Configure em 70%), avaliar benefício é satisfatório.
+
+-> PLACA VÍDEO - observar resolução do monitor
+   se a resolução fo muito alta vai usar muito processador, 
+   nem tanto placa de vídeo. GTX 1050, ou GTX 1060 ou baixa renda 1030.
+
+-> DIFERENÇA 
+   1060  6GB x 1060 3GB
+   pouca diferência custo benefício
+
+
+-> Pasta términa (efetuar a troca de 6 em 6 meses ou de 1 em 1 ano)
+  (função de aumentar a superficio do contato do processador com o discipador de calor)
+  0bs: superfície do processador é porosa.
+
+-> ESTÁTICA - atualmente todos os chips tem dispositivos tem chip de  proteção 
+   atrito do ar no corpo gera eletricidade estática.
+
+
+-> FONTES persquisa: site: boa dica.
+
+
+--- TIRA DUVIDA (FONTES DE ALIMENTAÇÃO)
+
+---Monitorar temperatura, verificar no site do fabricante temperatura máxima permitida no periférico.
+
+ 
+
+--- compra da fonte -  calcula potencia com base nos periféricos.
+    através de softwares existentes que calculam potencia com base
+    nos períféricos especificados.
+
+
+80 - bronze - FONTE
+
+filtro de linha não da tanta diferença.
+
+anti surto - sistema de segurança para energia elétrica, identifica o surto e corta passagem de energia 
+
+bateria - CMOS ( alimentar circuto da CMOS )
+
+PROGRAMAS BÁISCOS DO CHIP CMOS ( MEMÓORIA ROM/FLASH RON | NCESSITA DE ALIMENTAÇÃO CONSTANTE QUE É ALIMENTADO PELA BAETERIA ) 
+BIOS  -  Sistema basico de entrada e saida (instruções) 
+SETUP -  Permite alterar configurações
+post  -  Auto teste dos hardware ao iniciar. (outors equipamentos também possuem POST)
+
+CLEAR CMOS (JUMPER QUE FECHA UM CIRCUITO - LIMPA AS CONF. DO SETUP) LIGA CIRCUITE
+AGUARDA UNS 10 SEGUNDOS. E RELIGA.
+
+obs: Placas mais atuais reseta automaticamente devido algum erro originado de overclock.
+
+
+PONTES NORTE E PONTE SUL -> (CHIPSET - CONJUNTO DE CHIPS) Trouxe os componentes para dentro do processador.
+placas mães mais novas. ( aumenta desempenho) atualmente conhecida como CONTRALADORA IO.
+
+
+ALCOO ISOPROPILICO - MENOS AGUA. (NÃO TOTALMENTE ISENTO DE ÁGUA) ou usar limpa contato.
+
+MEMÓRIAS - > MEMORIAS TAMANHOS DIFERNETES NÃO HABILITA DUAL CHANEL, COM FREQUENCIA MENOR ELE VAI LIMITAR PELA 
+MENOR FREQUENCIA, PODE GERAR CONFLITOS.
+
+
+TIRA DÚVIDAS 03
+
+HD E SSD (DUVIDAS)
+1 - SSD - Solid State Driver (não DISK)
+
+2 - SSD PORTÁTIL - Mesmo sendo 3.0 sua velocidade é limitada a velocidade do USB. 
+
+4 - VELOCIDADES USB 2.0 (480 Mb/s= 60 megabytes por segundo) | USB 3.0 -> 60 VEZES MAIS RÁPIDO QUE a USB 2.0 ( 4.8 Gb/s ( 600 MEGABYTES POR SEGUNDO ).
+    USB 3.0 = cor azul simbologia SS. ( Super Speed ). 
+    USB 3.1 ( EVOLUÇÃO  - VELOCIDADE DE 10 Gb/s -> (equivalente 1.2 gigabytes por segundo)
+    USB tipo C (USB type-C), ja existente desde 2014, pode ser ligado em qualquer entrada USB, contém  um conector reversível, que pode ser encaixado de qualquer lado na entrada USB.  podendo ser usado também para alimentação elétrica em determinado dispositivos. transferencia de dados em 24 pinos, difernete do micro USB que possue 5.
+    Tx de transferência de 10 Gbps- 1.2 gigabyte por segundo) pode entregar até 100 watts de energia. poendo até carregar seu notebook.
+  
+    obs: tamanho dos cabos USBS recomendados de até 3 metros. 
+
+5 - SSD POSSUI LIMITE DE ESCRITA, 20 GB/DIA. (evitar reescritas), HD mecânico quanto mais uso mais reduz vida útil.
+
+6 - Sobre deixar 20% do HD livre?  HD Superlotado fica mais lento. reduz arquivo de paginação. (arquivo de troca ), ideial deicar folga de espaço livre no disco.
+   
+7 - SSD M2 superior ao HD sata? M2 melhor porém ganho de performance não compensa o valor. Não confundir OPTAINE com hd ssd.
+
+TIRA DÚVIDAS 
+PERÍFÉRICOS 
+
+1 - HDMI/DVI -> Padrões diferentes, existem modelos de DVI que aceitam sinal analógico outros aceitam sinal digigal, as percas existem entre
+ambos os padroes, o fato de ser digital não quer dizer que é igual ao HDMI que também é digital, existem 5 tipos de DVIs diferentes.
+frequências diferentes. HDMis suportam resolução muito maiores que DVI.
+
+
+INSTALAÇÃO LINUX
+
+DEPENDENDO DA BIOS DA SUA PLACA MÃE
+E IMPORTANTE VOCE DESABILITAR NAS CONFIGURAÇẼOS DE ENERGIA A OPCAO INICIALIZAÇÃO RAPIDA E A HBIBERNAÇÃO
+A PARTIR DO SEU WINDOWS, CONSIDERANDO QUE TERA DOIS SISTEMAS OPERACIONAIS NA SUA MAQUINA.
+
+OBS: REDUZIR A PARTIÇÃO DO HD DO WINDOWS 
+
+após usar o limpa contato aguardar uns 15 ou 20 minutos para religar o equipamento.
+
+water cooler possui um liquido especial, cooler jogando ar para fora, removendo ar quente do interior do gabinete
+
+SOFTWARES
+
+INDICAÇÕES DE LEITURA (ARQUITETURA)
+HARDWARE II DEFINITIVO (MORIMOTO)
+ORGANIZAÇÃO DE COMPUTADORES (ADREWS TANHENBAUN)
+
+
+OBSERVAÇÕES (TIRA DÚVIDAS) VIDEO 18
+
+OBS SETUP 
+
+X.M.P -> HABILITAR (IDENTIFICA AS CARACTERÍTICAS DE MEMÓRIA RAM E COLOCAR
+         AS CONFIGURAÇÕES IDEAL PARA ELA.)
+
+PRIORIDADE BOOT
+
+MAIORIA DOS COMPTUADORES POSSUEM TECLAS DE ATALHO PARA MENU DE BOOT
+MICRO -> F8
+NOTEBOOK ->F12
+
+PINOS VENTOINHA (2 PARA LIGAR, AMARELO PARA MOSTRAR A ROTAÇÃO, BRANCO-> CONTROLAR A ROTAÇÃO)
+SE TIVER OPÇÃO NO SETUP PAR (STANDART ) PARA O COLOER HABILITAR ELA, DESSA FORMA SERÁ GERENCIADO
+AUTOMATICAMENTE. NÃO CONFIGURA PARA MÁXIMO, PODE OCASIONAR TRINCAR SOLDA.
+
+PLACA MÃE ATÉ UNS 35% DE BOA.
+
+DIFERENÇA ABNT2 | ABNT
+ABNT2 - TECLA "Ç"
+
+INSTALAÇÃO
+
+OPÇÃO ATUALIZAR -> NÃO INIDICADO, POIS ELE TENTA MANTER ALGUMS ARQUIVOS O QUE PODE OCASIONAR EM 
+CONFLITOS E POSSÍVEIS ERROS, ALEM DO MAIS ELE CRIA UMA PASTA E RENOMEIA PARA WWINDOWS.OLD MANTENDO SEUS ARQUIVOS PESSOAIS.
+
+
+DO WINDOWS 7 ACIMA JA FAZ BACKUP AUTOMATICO | DURANTE A INSTALAÇÃO
+
+HDs - Notebook (2,5"  - rotação 5400 RPM  - menor consumo elétrico.
+HDs - Desktop (3,5" - rotação 7200 RPM - Maior consumo
+
+
+obs: Programa monitoramento temperatura perféricos ( AIDA 64 )
+
+
+
+BATERIA (CMOS) - alimenta o circuito do chip CMOS
+Inclusos no Chip CMOS
+BIOS - Sistema Básico de entrda e Saída
+SETUP - Que permite alterações
+POST - Power On Self Teste
+
+CLEAR CMOS - Deliga a alimentação da bateria por tempo suficiente para descarregar 
+os dados gravados na CMOS.
+
+
+
