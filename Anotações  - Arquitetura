@@ -1,0 +1,106 @@
+ARQUITETURA DE COMPUTADORES
+
+CORE
+i9 
+	
+i7
+i5
+i3
+
+Pentiun (antigamente eram códigos numeros 8080. 80286, 80386, 80586, devido problemas de registro de numeros usaram nome PENTIUM)
+Celeron (baixo custo)
+
+
+Nomeclatura
+
+i7 4770 K 
+	i7 - Linha do processador
+	 4 - Geração 
+       770 - Modelo do processador dentro da linha
+	 K - Permite overclock
+	
+	processadores que não possuem a letra K vão de 3.5 a 4.5
+ 	os que possuem 3.5 a 4.7 porém pode aumentar mais de forma manual.
+
+
+processadores com apenas 3xnumeros são GERAÇÃO 01 (ex. 670).
+
+Letras mais comuns de aparecer na linha de processadores
+	K - Permite capacidade maior de overclock
+	F - Não pussui GPU integrada
+	U - Baixo consumo de energia (notebooks geralmente possuem esse tipo de processador - especifica para mobile)
+
+	Obs: caso não tenha LETRA, possue placa de vídeo, porém nao vai ter ganho expressivo de desempenho, e tem que compensar
+	como todo overclock com refrigeração. e o limite de overclok não sera tanto. ex. 3.5 para 3.7 MHZ.
+
+
+TECNOLOGIAS X DESEMPENHO 
+ 	- Processadores de geraçao antigas podem impactar no desempenho de algumas atividades que deseja fazer ( exemplo: extreme de vídeos, até poderá	
+	  conseguir fazer porém não com o desempenho esperado), adquirir processadores gerações antigas podem implicar no futuro quanto a compatibilidades, e
+	  substiuição desse caso queime, considerando que as placas mães suportam determinadas gerações.
+
+	  processadores i3 de décima geração pode ser melhor que processador i7 de quarta geração. 
+
+
+COMPARAÇÃO 
+	i7 9770 <-> i5 10400 - Desempenho equivalentes.
+	Considere que os processaores são feitos por ano, um processador de  i7 de primeira geração e estamos na décima, ai ja se vão dez anos de diferença.
+
+	i5 9400 <-> i3 10300  - i3 no caso tem o mesmo desepenho que o i5 da geração anterior.
+
+	i7 4770K <-> 13 10300 - Desempenho equivalentes.
+
+Obs: quando  a CPU vem com vídeo integrado o termo correto é APU(Unidade de processamento Acelerado) e não CPU.
+
+
+PROCESSADORES AMD 
+
+Familia
+Ryzem
+	 3 -> 1Gen 2Gen 3Gen (O que começa com 3 é a atual) - serve para os demais processadores da familia 
+	 5  
+	 7
+	 9
+	
+	 Nomeclatura
+	 X -> EXTREME - equivale a letra K dos processadores intel.(AUTO DESEMPENHO)
+	 G -> Pussui placa de vídeo integrada.( caso não tenha, processador não possui placa de vídeo, necessitando aquisição de GPU a parte )
+
+	 Questionamento:
+	 Adquiri um processador que ja poussui GPU integrada, posso instalar uma plca de vídeo dedicada.
+	 R. Sim. ao instalar ele irá desabilitar a placa GPU integrada no processador.
+ 	    Embora tenha arquitetura que utilizam placas de vídeos juntas GPU e Dedicada para melhorar o desempenho, porém nem todas as aplicações
+	    usam essa tecnologia, ou seja, nao conseguem abstrair esse processamento.
+
+	 Obs: Não adquirira RYZEM que não seja da série i3 para frente, até por conta de algumas incompatibilidades, inclsive com módulos de memórias.
+	      Observa compatiblidade da placa mãe com o processador que esteja adquirindo.
+
+
+
+MEMÓRIA PRINCIPAL
+
+DOIS TIPOS:
+	MEMÓRIA RAM
+
+	       Random Acess Memory (Memória de acesso Aleatório)
+		- Volátio  (Precisa de uma alimentação não necessariamente constante), desligou o equipamento conteúdo da RAM é perido.
+		- Acesso Rápido e Aleatório (Aleatório , qualquer área de amemória pode ser acessada de forma direta)
+		- Permite leitura e escrita.( armazenda dados de programas em execução, isso inclui o Sistema Operacional )
+
+		Obs. aumentar a memória RAM do computador deixa mais rápido?
+		     Não necessariamente, a velocidade é o conjunto, apenas em caso de pouco memória eximinido a necessidade 
+		     de uso de memória SWAP.
+		    
+		     Qualquer programa para ser executado precisa estar na memória RAM.
+		
+			
+	MEMÓRIA ROM 
+		Reader Only Memory (Memória Somente de Leitura)
+
+
+
+
+
+
+	
+
