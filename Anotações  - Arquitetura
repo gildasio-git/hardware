@@ -96,7 +96,19 @@ DOIS TIPOS:
 			
 	MEMÓRIA ROM 
 		Reader Only Memory (Memória Somente de Leitura)
-
+		 - Acesso aleatório e rapido
+		 - Somente de leitura
+		 - Não volátio (não perde seu conteúdo )
+		 	
+	VARIAÇÕES
+	MASK ROM -  Memória vem virgem, fabricante implanta o solfware depois. ex. ar-condicionados(controle)
+	PROM - PROGRAMÁVEL (PODE SER REGRAVADA) PORÉM SALVA APENAS  UMA VEZ) .
+	EPROM - PROGRAMÁVEL E APAGÁVEL COM ULTRAVIOLETA.
+	EEPROM - ELETRONIC ERASE, PROGRAMADA E APAGADA COM PUSO ELÉTRICO (ROTEADORES, IMPRESSORAS)
+	FLASH ROM - TAMBÉM CHAMADO DE FLASH_DRIVE. PERMITE INCLUSÃO E DELEÇÃO DE INFORMAÇÕES, MEMÓRIA INCLUSA NOS DISPOSITIVOS PENDRIVERS, 
+		   SSDs, PUSO ELÉTRICO.(VIDA ÚTIL MAIOR). 
+	
+	
 
 
 
