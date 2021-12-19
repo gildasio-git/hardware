@@ -110,7 +110,26 @@ DOIS TIPOS:
 	
 	
 
+	PERIFÉRICOS 
 
+	- Dispositivo responsável pela iteração humana x maquina (periferia de alguma coisa)
+        não faz parte da estrutura básica.
+	
+	Tipos:
+	Dispositos / Periféricos
+	 - Entrada 
+		Tudo que leva dados do mundo externo para a maquina 
+		(Teclado, Mouse, Scanner, mesa digitalizadora, microfone
+		scanner, webcam), joypad, joystick.
+
+	 - Saida 
+		Monitor, impressora, caixa de som, fone de ouvido.
+		excessão volume de cx de som, é sinal, ploter. 
+
+
+	 - Entradas e Saida 
+		Monitores touch scren, pendrive, hdd, ssd, cd/dvd/brd
+		gravador/cd/dvd, impressora multifuncional.
 
 
 
