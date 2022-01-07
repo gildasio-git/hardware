@@ -133,5 +133,34 @@ DOIS TIPOS:
 
 
 
+MEMÓRIA AUXILIAR  / SECUNDÁRIA / MEMÓRIA DE MASSA (AUXILIA A MEMÓRIA PRINCIPAL)
+
+	Exemplos:
+	
+	 - SSDs - Disco de Estado Sólido;
+	 - HDD;
+	 - PENDRIVES;
+	 - MÍDIAS ÓTICAS (CD/DVD/BLUE RAW);
+	 - FITAS MAGNÉTICAS;
+	 - DISQUETES.
+	 
+
+FREQUẼNCIA
+
+	Frequência - HERTZ (uma senoide completa) leva 1 seg. para ser completa
+		     BAUD - Quantidade de X que troca de positivo para negativo.
+		     
+	Obs. não é a velocidade do processador,a velocidade do processador se da de acordo com a quantidade de instruções que ele faz dentro da frequẽncia  que ele tém de um ciclo ou em um conjunto de ciclos. quando falamos que tem 4.5, isso e a velocidade de operação dele., a frequência do processador na realidade e a velocidade do sitema inteiro., embora memória e demais perféricos possuem suas frequẽncias isso é ditado por um CRISTAL NA PLACA  e esse clock não tem a frequência igual do processador. todos os componentes precisam trabalhar de forma sincronizada e quem determina isso é um cara chamado CLOCK.(um sinal que existe na placa mãe - um cristal que tem como papel principal a sincronia de tudo que acontece no computador, ou seja toda a base de cálculo da frequẽncia do processaor , da frequência da memória é com base nesse cara.
+	Existe um mecanismo chamado multiplicado de CLOCK  que o processador usa e com base nesse número ele vai gerar a frequência dele. 
+	
+	
+	APLIAÇÕES
+	
+	SINGLE CORE
+		A frequencia é menor (tende a ser menor frequência)
+	
+	MULTI CORE
+		Possue uma frequência maior (gera menos calor, consumo é menor)
+		se vai rodar um jogo ou uma aplicação que enternde apenas um processador (um núcleo ) o sinle core vai ser melhor que o multi core., porque a frequência é menor, vai realizar menos operações em um ciclo. ja o MULTI CORE a aplicações precisa estar prepraada para uso dessa tecnologia.
 	
 
