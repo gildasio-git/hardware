@@ -150,11 +150,13 @@ FREQUẼNCIA
 	Frequência - HERTZ (uma senoide completa) leva 1 seg. para ser completa
 		     BAUD - Quantidade de X que troca de positivo para negativo.
 		     
-	Obs. não é a velocidade do processador,a velocidade do processador se da de acordo com a quantidade de instruções que ele faz dentro da frequẽncia  que ele tém de um ciclo ou em um conjunto de ciclos. quando falamos que tem 4.5, isso e a velocidade de operação dele., a frequência do processador na realidade e a velocidade do sitema inteiro., embora memória e demais perféricos possuem suas frequẽncias isso é ditado por um CRISTAL NA PLACA  e esse clock não tem a frequência igual do processador. todos os componentes precisam trabalhar de forma sincronizada e quem determina isso é um cara chamado CLOCK.(um sinal que existe na placa mãe - um cristal que tem como papel principal a sincronia de tudo que acontece no computador, ou seja toda a base de cálculo da frequẽncia do processaor , da frequência da memória é com base nesse cara.
+	Obs. HERZ não é a velocidade do processador,a velocidade do processador se da de acordo com a quantidade de instruções que ele faz dentro da frequẽncia  que ele tém de um ciclo ou em um conjunto de ciclos. quando falamos que tem 4.5, isso e a velocidade de operação dele., a frequência do processador na realidade e a velocidade do sitema inteiro., embora memória e demais perféricos possuem suas frequẽncias isso é ditado por um CRISTAL NA PLACA  e esse clock não tem a frequência igual do processador. todos os componentes precisam trabalhar de forma sincronizada e quem determina isso é um cara chamado CLOCK.(um sinal que existe na placa mãe - um cristal que tem como papel principal a sincronia de tudo que acontece no computador, ou seja toda a base de cálculo da frequẽncia do processaor , da frequência da memória é com base nesse cara.
 	Existe um mecanismo chamado multiplicado de CLOCK  que o processador usa e com base nesse número ele vai gerar a frequência dele. 
 	
+
+
 	
-	APLIAÇÕES
+	APLICAÇÕES
 	
 	SINGLE CORE
 		A frequencia é menor (tende a ser menor frequência)
@@ -162,5 +164,96 @@ FREQUẼNCIA
 	MULTI CORE
 		Possue uma frequência maior (gera menos calor, consumo é menor)
 		se vai rodar um jogo ou uma aplicação que enternde apenas um processador (um núcleo ) o sinle core vai ser melhor que o multi core., porque a frequência é menor, vai realizar menos operações em um ciclo. ja o MULTI CORE a aplicações precisa estar prepraada para uso dessa tecnologia.
+	
+	
+	    Arquitetura do computador 
+	
+	RAM(MEM. PRINCIPAL)      BIOS(ROM)
+		     |
+	             |	     
+	ENTRADA ------> CPU -------->SAIDA
+	             |
+		     |
+		     
+	  MEMÓRIA AUXILIAR (HDDs /SSDs, SD)
+	        [MEMÓRIA VIRTUAL]
+		
+		
+         ANATOMIA DE UMA PLACA MÃE
+	 (Peça mais importante do seu computador)
+	 
+	 Soquete processador 
+	 ->PGA ( com pinos ) processadores da AMD
+	 ->LGA ( buraquinhos ) processadores da INTEL
+	 
+	 ZIF ( Zero inserc force ) você não precisa fazer força para colocar .
+	 
+	 Soquete MEMÓRIA RAM
+	 - Mais próxima ao processador devido a eficiencia (velocidade - rapido acesso)
+	 
+	 OBS. placas mães mais antigas existema CHIPS norte e SUL, que serviam como intermediário ao processamento
+	 Processador -> ponte norte -> processador 
+	 Ponte norte servia como INTERMEDIÁRIO para acesso a MEMÓRIA, PLACA DE VÍDEO. 
+	 ja a ponte SUL , acesso aos barramentos, controladores de discos. 
+	 ja em placas mais recentes os acessos que esse chips faziam migraram para dentro do processador.
+	 a ponte SUL não existe mais, agora existem um CHIP I/O, chip responsável pela entrada e saída. ja a ponte norte 
+	 não existe , essa migrou para o processador.
+	 
+	 Outro, importante observar que existe o clock do barramento e o clock do processador. (tipos de barramentos atuais: quick pefh INTEL e hiper transport AMD
+	 barramentos auxiliares para aumentar o fluxo de dados.
+	 
+	 SLOT PCI Express 16x (socket da placa de vídeo)
+	 -> 16x (quantidade linhas que existe para envio de dados), exite modelos de placas que permitem duas placas de vídeo.
+	    observa a compatibilidade da versão do PCIEx. existem 1.0 2.0, 3.0, 4.0, observar o manual placa mãe e se a placa que você quer comprar é .
+	    se instalar vai funcionar, porém com desempenho abaixo., com a versão anterior. (limitações da versão).
+	    
+	  SLOT PCIex. 1x -> Instalar plaas de expansão, WIFI, REDE,  SOM.
+	  APU - Video embarcado no processador.
+	  SATA - instalar unidades de Disco.(observar as versões)
+	  CONEXÃO TPM - usb 3.0 existentes nos gabinetes.
+	  BATERIA CR-2032 -> Alimenta memória CMOS enquanto o computador esta desligado (tipo de memória RAM que armazena informações do computador,
+	  funciona com alimentação igual a memória RAM
+	    
+	   
+	  ANATOMIA MEMÓRIA RAM (SDRAM)
+	  DDR - DOUBLE DATA RATE 
+	  
+	  FAMILIAS (TECNOLOGIAS)
+	  DDR  - 
+	  
+	  DDR2 - 
+	  
+	  DDR3 - 
+	  
+	  DDR4 - 
+	  	Frequências 
+			- 2666
+			- 3200
+	 	Cada familia possuem suas devidas frequências.
+	  
+	  Notas:
+	  	1 - Quantidades de contatos difere de uma familia para outra
+	 
+	    
+	   DUAL CHANELL ( aumenta a velocidade da memória , desde que observado a instalação física em bancos de memória)
+	   		nas placas vem em geral impressa, marcadas os devidos sokets para instalação.
+			instalção em pares. melhor um dois de 8G do que um módulo de 16GB.
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+       
+			
+
+
+	
+	
 	
 
