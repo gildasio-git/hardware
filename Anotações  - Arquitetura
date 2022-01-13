@@ -238,6 +238,55 @@ FREQUẼNCIA
 	   DUAL CHANELL ( aumenta a velocidade da memória , desde que observado a instalação física em bancos de memória)
 	   		nas placas vem em geral impressa, marcadas os devidos sokets para instalação.
 			instalção em pares. melhor um dois de 8G do que um módulo de 16GB.
+			Caso que resolva instalar apenas um módulo de memória ,você perde o DUAL CHANEL como também o módulo 
+			XMP da placa mãe, tecnologia que indentifica a frequência da memória e adapta para a melhor. 
+			
+	  ANATOMIA DO HDD (Hard Disk Ddrive)
+	  		Composto por mecanismo, servo mecanismo, platos(cilindros) (mais de 1 geralemnte por questões de mais espaço) lidos e escritos 
+			embaixo e na parte superior, slider, pre-amplicador, estacionador, tradutores 
+			
+			- Velocidades de 5.400 RPM, 5.900 RPM, 7200 RPM e 10000 RPM, quando maior velocidade maior consumo elétrico.
+			  para notebooks geralmente os de menor reotação devido ao consumo de bateria, para os desktops as dimenões são de 3.5" ja 
+			  os notebooks são de 2.5".
+			
+			- Durabilidade ( entre 20 e trnta anos segundo os livros, porém exitem os MTBF, que determinanm o tempo de vida dos HDDs, ao 
+			  comprar um , você pode pocurar impresso a existência nominal na etiqueta. 
+			  obs: devido a proximidade dos slider de leitura na mídia, a rotação dos cilindroes permite m que este flutem sobre uma minuscula
+			  distância da mídia, o que qualquer micro particula de poeira ou outro, pode danificar por completo a mídia, impossibilidade a recuperação
+			  dos dados, e prejudicando o funcionamento do mesmo.		
+			  
+         ANATOMIA DOS SSDs (Solid Static Drive)
+	 		  Existe somente nos tamanhos 2.5", não possui discos(cilindros) e sim CHIPS DE MEMÓRIA, controlador.
+			  VANTAGENS: Leitura instantãnea, não possui nada mecânica, todo o processo é elétrico, consegue aproveitar 
+			  melhor o barramento de dados da conexão SATA, resistente a impacto.
+			 
+			  Tempo de vida médio de 10 anos, isso se você todos os dias gravar em um mesmo bloco de memória, gravar e apagar em média 		
+			  8.8 GB , isso no mesmo dia. isso dito considere que é algo que não fazemos. isso a cada gravação em mesmo local
+			  deduz um ciclo de vída da memória. com isso média de duração pode varia de 20 a 30 anos.
+			  possue tecnologia para não gravar dados no mesmo lugar. 
+			  
+			  
+			  obs: pode manter ambos em um notebook adaptando através de cases CADDY, desde que tenha espaço.]
+			  
+			  TIPOS DE INTERFACE:
+			  SATA é a interface de comunicação, porém tem um softwware para gerenciar isso que é o AHCI, ainda existe  um outro modelo que usa
+			  um conexão M.2 que utiliza o barramento PCIEx , e ainda existe o M.2 NVME(software gerenciador de armazenamento)
+			  M2 mais rapido que o Sata.
+			 
+	 		 
+	 		  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+	  		
+	  		
+	   
+			
+			
 	 
 	 
 	 
