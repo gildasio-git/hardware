@@ -318,13 +318,59 @@ FREQUẼNCIA
 		   Placas mais recentes ja possui mais recursos (mais tecnologias, como também mais saídas de vídeo que oferecem mais qualidade)
 		   DISPLAY PORT (melhor desemepenho)
 		   HDMI
+		   		
+		   Existem no mercado dois grandes fabricantes de GPUs, NVIDIA e AMD, INTEL querendo entrar no mercado também.
+		   a NVIDIA fabrida a placa de distribui aos montadores (ASUS, GIGABYTE, MSI que finalizam as GPUS para ao mercado)
 		   
-		 
+		   Na PCB dessas placas é possivel obervar o processador, os chips de VRAM(memórias de vídeo) conectores de alimentação energica para suprir seu 
+		   consumo, conexões CROS FIRE/SLI.(utilizada para ligar duas ous mais placas de rede em um mesma placa mãe através de uma ponte SLI). 
+		   SLI - NVIDIA
+		   CROSFIRE - AMD.
+		   Obs. atualialmente para jogos não é compensatório essse arranjo de duas ou mais placas , até porque os jogos não estão sendo otimizados para utlização
+		   de duas placas de vídeo, observadr também suporte da plada mãe suporta CORSFIRE  ou SLI ou se suporta os dois
+		   	
 			
+ MONITORES
+		   SIGLAS (TECNOLOGIAS ANTIGAS - Monitores) 
+		   - CRT (Tubo de raios catodicos) possui um formato concavo devido o gás que possui em seu interior ele precisda ser nesse formato para 
+		    não causar explosão, no pé desse tubo existem um canhão que joga eletrons , a imagem e formada através de desenhos de linhas na tela, fica 
+		    dando reflesh na sua tela a cada tempo.
+		    
+		    - PLASMA - Tempo de dissipação da imagem após desligar, usa um gás em seu interior, desvantagem que com o tempo esse gás vai perdendo o efeito.
+		   	       vida útil menor. devido não ter como fazer a substuição desse gás .
+	 	    - LCD - Tela de Cristal Liquido que consiste em um pequeno cristal que consegue mudar de cor, atrás desses monitores tem um painel de  luz
+		     fluorescnete que acende inteiro , que fica ligado, os bastões de cores (RGB) não deixam a luz passar ( o que seria o preto), banco toda a luiz e passada
+		     eles se reorgnizam. (em LCDs observe que a cor preta em geral não toalmente preta , devido não conseguir totalmente o bastão ) dificulta visualização em abimentes
+		     escuros.
+		     
+  		     
+		     LED - Não poussi a triade nem cristal, acende o led  em uma determinada cor, porém não tem brilho suficiente para mostrar a imagem inteira 
+		     o que ocntinua a nesseidade de ter um back light( caso não tivesse , não veriamos cores tão vívas), não tão forte quanto ao LCD. o tempo de resposta é muito mais rápido 
 		
-  MONITORES 
-  		Primeiro dispositivo que deve ser observado antes de comprar um computdor.
+		     QLED - Continua os LEDs, porém em vez de todo um back light acesso atrás ,e ele consegue acender partes da tela.(quadrados quanticos) deixando todo o resto
+		     totalmente preto. essa tecnologia e melhor que o LED porém não melhor que o OLED.
+		     
+		     OLED - LED ORGÂNICO, consegue acender e brilhar individualmente, apenas o ponto da tela acende.
+		     
+		     MINILED - Poussui muito mais pixel em uma tela, acende pixels individualmente (assim como OLED) quanto maior pixel na tela melhor a qualidade da imagem.
+		     	       anticerrilhamento.
 		
+		     outras tecnologias como MICROLED e NANOLED tecnologias por vir ainda.
+		     
+		     
+		     TECNOLOGIAS (MONITORES)
+		     
+		     HDR - HIGH DYNAMIC RAND > Trabalha o contraste, deixando a imagem mais clara em deterinadas partes da tela, varias tonalidades, não deixa o claro 
+		     absurdamente , assim como e escuro, consegue harmonizar as cores, faz um balanceamento entre duas imagems para te entegar  a melhor  imagem possível.		     
+		     
+		     
+		     IPS - IN-PLANE SWITCHING > Filtrar determinadas cores utilizando polarização, com isso você tem uma maior fidelidade em cores, possui uma camada 
+		     em cima polarizada que consegue polarizar áreas específicas e filtrar o que ele quer que apareceça co mais precisão. consegue filtrar deterimnada cor.
+		     
+		     
+		     
+		     
+		     
 		
 		
 		
