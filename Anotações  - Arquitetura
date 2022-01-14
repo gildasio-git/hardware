@@ -272,6 +272,70 @@ FREQUẼNCIA
 			  SATA é a interface de comunicação, porém tem um softwware para gerenciar isso que é o AHCI, ainda existe  um outro modelo que usa
 			  um conexão M.2 que utiliza o barramento PCIEx , e ainda existe o M.2 NVME(software gerenciador de armazenamento)
 			  M2 mais rapido que o Sata.
+			
+	FONTES DE ALIMENTAÇÃO
+		Observar consumo do equipamento.
+		
+		FONTE GENÉRICA 
+		- Menos Eficiência de energia
+		- Voltagem Limitada
+		- Circuito de proteção não confiável 
+		- Informa uma potência que na realidade não tem. (Potência: quantidade de dispositivos que ela pode alimentar)
+		  cada componente recebe uma alimentação.
+		  
+		  PSU CALCULATOR (calculadora de alimentação ) a partir de informação dos dispositivos constantes no seu computador 
+		  
+		
+		Vantagems
+			Baixo custo.
+			
+		FONTE REAL 
+		- Proteção contra surto 
+		- Proteção contra curto 
+		- Proteção contra sobre tensão 
+		
+		Existem fontes modulares, que permite organização melhor dos cabos
+		apenas usa os cabors necessários para alimentação do computador .
+		
+		
+		PLACAS DE VÍDEO.
+		
+		Disponsitivo de transferência de imagem ao monitor, ao longo do tempo esse dispositivo tem evoluído muito, agregando rercusos 
+		tecnoloógicos para suas aplicações.
+		
+		No passado a parte do processamento das imagems ficacava por contra da grande parte do processamento (fazendo o esqueleto,e as 
+		interações físicas do corpo e a placa de vídeo faria a composição da textura da imagem, finalizando  o processo.
+		
+		Atualmente a placa de vídeo faz tudo.(tem processador, tem memória (essa memória de chamda de VRAM, diferente da usada na placa mae do 
+		computador, uma frequencia mais alta, tecnologia melhor), usada em jogos e para rendeização de vídeos.
+		
+		Anatomia (Placa de vídeo)]
+		 - Em uma placa você vai encontrar a GPU ( GRAPHIC PROCESSING UNIT)
+		 - Saídas de vídeo (VGA  - forma de trapezoide), HDMI, DVI)
+		 - slots de encaixe na placa mãe.(Existem versões PCIex 16x. 1.2.3.4 - atual), possui retrocompatiblidade.
+		   o que altera de uma versão para outra, e a volocidade que pode ser disponibilizada. menhor eficiência.
+		  
+		   Placas mais recentes ja possui mais recursos (mais tecnologias, como também mais saídas de vídeo que oferecem mais qualidade)
+		   DISPLAY PORT (melhor desemepenho)
+		   HDMI
+		   
+		 
+			
+		
+  MONITORES 
+  		Primeiro dispositivo que deve ser observado antes de comprar um computdor.
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
 			 
 	 		 
 	 		  
