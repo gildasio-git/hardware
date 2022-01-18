@@ -371,7 +371,44 @@ FREQUẼNCIA
 		      Se escolher um monitor FULL HD 1080p não adianta colocar uma 3.090. exemplo, portando 
 		      se uso um monitor com uma resolução baixa , adquirir uma placa com resolução 4k é grana jogada fora.
 		      A regra é : (processador tem que ser melhor desempenho, processador entregara os frames que precisa )
-		     		   Se Monitor é 4 k (placa de vídeo melhor  - processador com desempenho mais baixo )
+		     		   Se Monitor é 4 k (placa de vídeo melhor  - processador com desempenho mais baixo ).
+				   agora quando o monitor é 4K ele precisa de muita memória de vídeo, ai precisa de uma placa de vídeo melhor.
+				   porém o processador não precisa ter tanto desempenho.
+		         
+		      PARÂMETROS:
+		      
+		      	TAMANHO DO MONITOR:tamanho de tela não é resolução. (você pode ter um monitor pequeno com uma resolução alta, e com qualidade muito boa)
+			                                                     exemplo: celular).
+			
+			
+			
+			RESULÇÃO:
+				 - 4k 3840 X 2160
+				 - full HD 1920 x 1080 
+				 
+				 .................. 3840
+				 .
+				 .
+				 .
+				 . 2160
+				 .
+				 .
+				 .
+				 
+				 ULTRA - Mantẽm a proporção na vertical mais na horizontal é 2156 . mais pixels.
+				 existem os 2k/2.
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+				 
+
+		      
 		      
 		      
 		     	
